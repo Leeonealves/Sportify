@@ -1,5 +1,5 @@
 # Sportify
-O Spotify é um aplicativo estático de atividades esportivas, desenvolvido com o objetivo de transformar um design de alta fidelidade em uma interface funcional e responsiva.
+Spotify is a static sports activity app, developed with the goal of recording favorite workouts, workout locations, reminders, and offering a unique feature among sports apps. It boasts high fidelity in a functional and responsive interface..
 
 ## Technologies
 This project was built using the modern hybrid development ecosystem:
